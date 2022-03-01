@@ -427,17 +427,13 @@ label 					{ display: block; margin:10px 0 8px 0;
 input, textarea, select 		{ display: block; width:400px;
 							padding:10px; border:1px #aaa solid; }
 
-input					{ 	}
+
 input:focus				{ background-color:#efefef;	}
 
 textarea					{ height:120px;	}
 textarea:focus				{ background-color:#efefef;	}
 
-select					{	}
-select:focus				{	}
 
-legend					{ 	}
-fieldset					{ 	}
 
 .submit					{ padding:5px 20px; width:140px; margin:12px 0; }
 
@@ -452,8 +448,7 @@ fieldset					{ 	}
 .subtitle			{ font-size:14px; font-style:italic; color:#333;  }
 
 .artist			{ font-size:16px; font-weight:bold; color:#333;  }
-.author			{ font-size:14px font-weight:bold; color:#555;  }
-.editor			{ font-size:14px font-style:italic; color:#555;  }
+
 
 .address			{ font-size:10px; font-style:normal; color:#000; }
 .city			{ font-size:10px; font-style:normal; color:#000; }
@@ -461,9 +456,7 @@ fieldset					{ 	}
 .email			{ font-size:10px; font-style:normal; color:#000; }
 .website			{ font-size:10px; font-style:normal; color:#000; }
 
-.pub-date			{ font-size:10px font-style:italic; color:#555; }
-.article-date		{ font-size:10px font-style:italic; color:#555;  }
-.location			{ font-size:10px font-style:italic; color:#555;  }
+
 
 .float-right		{ float:right; }
 .float-left		{ float:left; }
