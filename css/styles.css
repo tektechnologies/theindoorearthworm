@@ -337,7 +337,8 @@ code, pre		{ background-color:#FF9; padding:2px 0px; margin:4px 25px;
 #footer a:hover	{ color:#000;	}
 #footer a:focus	{ color:#000;	}
 
-#bottom 			{ margin:0 auto; width:1000px;     }
+#bottom 			{ margin:0 auto; width:1200px;     }
+
 #bottom-bg		{ 
 	clear:both; 
 	overflow:auto; 
@@ -348,6 +349,7 @@ code, pre		{ background-color:#FF9; padding:2px 0px; margin:4px 25px;
 		clear:both; 
 		overflow:auto; 
 		padding:30px;
+	
 		background-color:#574b47; 
 		}
 
@@ -441,8 +443,8 @@ textarea:focus				{ background-color:#efefef;	}
 /* Miscellaneous  */
 
 .copyright-text	{ font-size:10px; font-style:italic; color:#333; }
-.footer-text		{ font-size:24px; font-style:normal; font-weight:200; color:#fff;
-					font-family:'Titillium Web', Arial, Helvetica, sans-serif; }
+.footer-text		{ font-size:28px; font-style:normal; font-weight:200; color:#fff;
+					font-family:'Titillium Web', Arial, Helvetica, sans-serif; text-align: center; }
 
 .title			{ font-size:18px; font-weight:bold; color:#333;  }
 .subtitle			{ font-size:14px; font-style:italic; color:#333;  }
