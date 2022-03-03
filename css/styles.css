@@ -107,7 +107,6 @@ p           	{ color:#000; font-size:12px; line-height:150%;  }
 p .left		{ margin: 1.5em 1.5em 1.5em 0; padding: 0; }
 p .right 		{ margin: 1.5em 0 1.5em 1.5em; padding: 0; }
 
-a           	{   }
 a:link		{ color: #00f;  }
 a:visited		{ color: #0f0;  }
 a:active		{ color: #000;  }
@@ -128,7 +127,7 @@ em		     { font-style: italic; }
 ul li		{ color:#000; font-size:12px; }
 ol li	     { color:#000; font-size:12px; }
 
-li			{ 	}
+
 
 ul.square 	{ list-style: square outside; }
 ul.circle 	{ list-style: circle outside; }
@@ -137,9 +136,7 @@ ul.disc 		{ list-style: disc outside; }
 ul 			{ list-style: none outside; }
 ol 			{ list-style: decimal; }
 
-dl          	{  	}
-dt       		{  	}
-dd          	{ 	}
+
 
 
 

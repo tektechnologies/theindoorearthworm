@@ -16,12 +16,14 @@
 }
 
 #name{
-  width: 100%;
-  margin: 50px;
+  
   text-align: center;
 }
 
 body{
+  width: 100%;
+  margin: 0 auto;
+  padding: 0px;
   background-color: rgb(255, 123, 0);
 
 }    
