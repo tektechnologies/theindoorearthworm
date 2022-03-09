@@ -128,3 +128,76 @@
 		height: 200px;
 	}
 }
+
+
+
+
+
+
+@media screen and (min-width: 200px) and (max-width: 390px) {
+	#top-bg {
+		/* display: none; */
+		margin-bottom: 50px;
+	}
+	#top-banner {
+		width: 100%;
+		padding: 0;
+	}
+	#name {
+		text-align: center;
+	}
+	body {
+		width: 100%;
+		margin: 0 auto;
+		padding: 0px;
+		background-color: rgb(255, 123, 0);
+	}
+	img {
+		display: none;
+	}
+	li a {
+		display: none;
+	}
+	#subbanner-bg h2 {
+		display: none;
+	}
+	#banner-bg {
+		margin-bottom: 50px;
+	}
+	#bottom-banner {
+		display: none;
+	}
+	#name h1 {
+		margin-left: 50px;
+		margin-bottom: 50px;
+	}
+	#banner h4 {
+		float: left;
+	}
+	#footer-left {
+		display: none;
+	}
+	#footer-middle {
+		display: none;
+	}
+	#footer-right {
+		display: none;
+	}
+	#footer-phone h4,
+	p {
+		margin-left: 50px;
+		padding: 20px;
+	}
+	#bottom-bg {
+		display: none;
+	}
+	iframe {
+		margin-top: 200px;
+	}
+	#bottom {
+		display: none;
+	}
+	#bottom-bg1 {
+		height: 200px;
+	}
+}
